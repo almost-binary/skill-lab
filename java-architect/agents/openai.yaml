@@ -1,0 +1,4 @@
+interface:
+  display_name: "Java Architect"
+  short_description: "Design production-grade Java systems"
+  default_prompt: "Use $java-architect to design or review a Java system architecture with clear tradeoffs and an implementation roadmap."
