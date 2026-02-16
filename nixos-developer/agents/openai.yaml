@@ -1,0 +1,4 @@
+interface:
+  display_name: "NixOS Developer"
+  short_description: "Develop and maintain NixOS systems"
+  default_prompt: "Use $nixos-developer to configure or debug a legacy NixOS setup centered on configuration.nix, with safe rebuild and rollback practices."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "React TypeScript Developer"
+  short_description: "Build maintainable React + TypeScript apps"
+  default_prompt: "Use $react-typescript-developer to design or implement a React + TypeScript feature with clear component boundaries, strict typing, and test coverage."
